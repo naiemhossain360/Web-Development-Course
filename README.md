@@ -40,7 +40,7 @@
 - Example: VS Code, Atom, Netbeans, Android Studio, Sublime Text, Code Blocks etc.
 
 **Common Task of An IDE:**
-![ide](./chapter-01/images/codejogot.com.png)
+![ide](./chapter-01/images/code.com.png)
 
 ## Difference between Web Design & Web Development
 
